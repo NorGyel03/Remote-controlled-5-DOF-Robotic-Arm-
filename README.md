@@ -18,9 +18,6 @@ This project showcases a ** 5 Degrees of Freedom (DOF) robot arm** controlled re
 ### 🚀 How to Use:
 1. Upload the provided Arduino code.
 2. Connect the robot arm components as per the wiring diagram.
-3. Control the arm using your DIY Controller.
-
-### 🔗 Resources:
-- 
+3. Control the arm using your DIY Controller
 
 Happy building!
